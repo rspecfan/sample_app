@@ -9,7 +9,7 @@ gem 'bcrypt', '3.1.13'
 # Use sqlite3 as the database for Active Record
 gem 'bootstrap-sass', '3.4.1'
 # Use Puma as the app server
-gem 'puma', '3.12.2'
+gem 'puma', '5.6.2'
 # Use SCSS for stylesheets
 gem 'sass-rails', '5.1.0'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
